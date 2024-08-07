@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Navneet-Mallick
+- Currently Pursuing Computer Engineering at IOE Purwanchal Campus,Dharan
+- I have a great passion for programming , mainly engaging in Web Development
   
 
 <!---
