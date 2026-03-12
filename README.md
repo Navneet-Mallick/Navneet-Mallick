@@ -44,9 +44,9 @@ I love creating projects that solve real-world problems and learning new technol
 
 ## 📈 GitHub Stats
 
-[![Navneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=NMcoder07&show_icons=true&theme=dark&count_private=true)](https://github.com/NMcoder07)
+[![Navneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navneet-Mallick&show_icons=true&theme=dark&count_private=true)](https://github.com/Navneet-Mallick)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NMcoder07&layout=compact&theme=dark)](https://github.com/NMcoder07)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Mallick&layout=compact&theme=dark)](https://github.com/Navneet-Mallick)
 
 ---
 
