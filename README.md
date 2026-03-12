@@ -54,6 +54,7 @@ I enjoy building projects that **solve real-world problems** and constantly lear
 
 ## 📈 GitHub Stats 
 [![Navneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navneet-Mallick&show_icons=true&theme=dark&count_private=true)](https://github.com/Navneet-Mallick)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Mallick&layout=compact&theme=dark)](https://github.com/Navneet-Mallick) ---
 
 # 🔥 GitHub Streak
