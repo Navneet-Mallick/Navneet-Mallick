@@ -61,7 +61,7 @@ I enjoy building projects that **solve real-world problems** and constantly lear
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=NMcoder07&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Navneet-Mallick&theme=tokyonight&hide_border=true"/>
 
 </p>
 
