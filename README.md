@@ -46,7 +46,7 @@ I enjoy building projects that **solve real-world problems** and constantly lear
 
 | Project | Description | Link |
 |-------|-------------|------|
-| 📚 MRS | MOVIE RE System | [GitHub](https://github.com/Navneet-Mallick/Movie-Recommender-System.git) |
+| 📚 MRS | Movie Recommender System | [GitHub](https://github.com/Navneet-Mallick/Movie-Recommender-System.git) |
 | 🎮 Quiz Game | Interactive Quiz Application | [GitHub](https://github.com/Navneet-Mallick/CPP-Project-Quiz-Master-Game.git) |
 | 🌐 Portfolio | Personal Portfolio Website | [Live](https://navneet-mallick.github.io/Web-dev-Project-/) |
 
