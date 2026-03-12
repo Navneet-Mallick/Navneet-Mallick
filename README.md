@@ -24,7 +24,7 @@ I enjoy building projects that **solve real-world problems** and constantly lear
 
 ---
 
-# ⚡ Typing Animation
+# ⚡ MY FIELD OF INTEREST
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Web+Developer;Machine+Learning+Enthusiast;Open+Source+Learner&center=true&width=500&height=45">
