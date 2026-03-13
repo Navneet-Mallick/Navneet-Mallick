@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=711&section=header&text=Navneet%20Mallick&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=71&section=header&text=Navneet%20Mallick&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h2 align="center">Hi there 👋 I'm Navneet Mallick</h2>
