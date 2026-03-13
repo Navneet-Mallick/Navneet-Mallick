@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Navneet%20Mallick&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=711&section=header&text=Navneet%20Mallick&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h2 align="center">Hi there 👋 I'm Navneet Mallick</h2>
@@ -15,14 +15,10 @@
 # 👨‍💻 About Me
 <img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I am a **Computer Engineering Student** passionate about  
-
-💻 Web Development  
-🤖 Machine Learning  
-📊 Data Science  
-
-I enjoy building projects that **solve real-world problems** and constantly learning new technologies.
-
+- 🎓 3rd Year Computer Engineering Student  
+- 💻 Web Developer  
+- 🤖 Machine Learning Enthusiast  
+- 🌱 Currently learning **AI & Data Science**
 ---
 
 # ⚡ WHO AM I
