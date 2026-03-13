@@ -37,7 +37,7 @@ I enjoy building projects that **solve real-world problems** and constantly lear
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c,c++,js,react,nodejs,python,scikit-learn,django,mysql,git,github"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,python,sklearn,django,mysql,mongodb,git,github"/>
 
 </p>
 
@@ -78,7 +78,9 @@ I enjoy building projects that **solve real-world problems** and constantly lear
 </p>
 
 ---
+## 📊 GitHub Activity Graph
 
+[![Navneet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navneet-Mallick&theme=tokyo-night)](https://github.com/Navneet-Mallick)
 # 🌐 Connect With Me
 
 <p>
