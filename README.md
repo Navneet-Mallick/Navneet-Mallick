@@ -16,7 +16,7 @@
 <img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 3rd Year Computer Engineering Student  
-- 💻 Web Developer  
+- 💻 Exploring Web Development
 - 🤖 Machine Learning Enthusiast  
 - 🌱 Currently learning **AI & Data Science**
 ---
