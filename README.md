@@ -13,6 +13,7 @@
 ---
 
 # 👨‍💻 About Me
+<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 I am a **Computer Engineering Student** passionate about  
 
@@ -32,11 +33,11 @@ I enjoy building projects that **solve real-world problems** and constantly lear
 
 ---
 
-# 🚀 Skills & Tools
+#  Skills & Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,mysql,git,github"/>
+<img src="https://skillicons.dev/icons?i=c,c++,js,react,nodejs,python,scikit-learn,django,mysql,git,github"/>
 
 </p>
 
@@ -46,7 +47,8 @@ I enjoy building projects that **solve real-world problems** and constantly lear
 
 | Project | Description | Link |
 |-------|-------------|------|
-| 📚 MRS | Movie Recommender System | [GitHub](https://github.com/Navneet-Mallick/Movie-Recommender-System.git) |
+| 📚 MRS | Movie Recommender System | [GitHub](https://github.com/Navneet-Mallick/Movie-Recommender-System.git)|[Live(https://movie-recommender-navneet.streamlit.app/) |
+|    Regression | Car Price Predictor |[GitHub](https://github.com/Navneet-Mallick/Car-Price-Predictor-Regression-.git)|[Live](https://carpredictor-navneet.streamlit.app/)
 | 🎮 Quiz Game | Interactive Quiz Application | [GitHub](https://github.com/Navneet-Mallick/CPP-Project-Quiz-Master-Game.git) |
 | 🌐 Portfolio | Personal Portfolio Website | [Live](https://navneet-mallick.github.io/Portfolio-Website/) |
 
@@ -67,7 +69,7 @@ I enjoy building projects that **solve real-world problems** and constantly lear
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution 
 
 <p align="center">
 
@@ -81,17 +83,14 @@ I enjoy building projects that **solve real-world problems** and constantly lear
 
 <p>
 
-<a href="https://www.linkedin.com/">
+<a href="https://linkedin.com/in/navneet-mallick-313829279">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/">
+<a href="https://www.instagram.com/navneet_nm07/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
 
 </p>
 
