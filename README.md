@@ -11,7 +11,7 @@
 # 👨‍💻 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4Z3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
-**"Computer Engineering Student | AI & Web Dev Enthusiast 🚀 | Building the bridge between ML Models and Scalable Web Apps. Always learning, one commit at a time."**
+**Computer Engineering Student | AI & Web Dev Enthusiast 🚀 | Building the bridge between ML Models and Scalable Web Apps. Always learning, one commit at a time**
 
 
 - 🎓 **Education:** 3rd Year Computer Engineering @ IOE Purwanchal Campus
