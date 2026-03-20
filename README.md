@@ -11,9 +11,8 @@
 # 👨‍💻 About Me
 
 <p align="left">
-  <img align="right" width="380" src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1000" alt="Tech Visual"/>
+  <img align="right" width="400" src="https://streak-stats.demolab.com?user=Navneet-Mallick&theme=tokyonight&hide_border=true&mode=daily" alt="Navneet's Streak"/>
 </p>
-
 I am a **Computer Engineering student** and **Software Developer** focused on building intelligent systems. I specialize in bridging the gap between robust **Machine Learning models** and scalable **Web Applications**.
 
 - 🎓 **Education:** 3rd Year Computer Engineering @ IOE Purwanchal Campus
@@ -83,9 +82,9 @@ I am a **Computer Engineering student** and **Software Developer** focused on bu
 <a href="https://www.instagram.com/navneet_nm07/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="mailto:your.email@gmail.com">
+<!-- <a href="mailto:your.email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a> -->
 </p>
 
 ---
