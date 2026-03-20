@@ -1,10 +1,6 @@
-<!-- Animated Header -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=71&section=header&text=Welcome+to+My+GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=header&text=Navneet+Mallick&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-<h2 align="center">Hi there 👋 I'm Navneet Mallick</h2>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=NMcoder07&label=Profile%20views&color=blueviolet&style=flat"/>
@@ -13,92 +9,90 @@
 ---
 
 # 👨‍💻 About Me
-<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 3rd Year Computer Engineering Student @ IOE Purwanchal Campus 
-- 💻 Exploring Web Development
-- 🤖 Machine Learning Enthusiast  
-- 🌱 Currently learning **AI & Data Science**
+<p align="left">
+  <img align="right" width="380" src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1000" alt="Tech Visual"/>
+</p>
+
+I am a **Computer Engineering student** and **Software Developer** focused on building intelligent systems. I specialize in bridging the gap between robust **Machine Learning models** and scalable **Web Applications**.
+
+- 🎓 **Education:** 3rd Year Computer Engineering @ IOE Purwanchal Campus
+- 🔭 **Current Focus:** Advanced AI & Data Science
+- ⚡ **Achievement:** 3rd Place - CS50x AI Nepal DataCamp
+- 🌱 **Learning:** MLOps and Cloud model deployment
+
+### 🛠 Technical Ecosystem
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | `C`, `C++`, `Python`, `JavaScript`, `SQL` |
+| **ML & Data Science** | `Scikit-Learn`, `Pandas`, `NumPy`, `Matplotlib`, `Streamlit` |
+| **Web Development** | `React.js`, `Node.js`, `Django`, `HTML5`, `CSS3` |
+| **Databases** | `MySQL`, `MongoDB` |
+| **Tools** | `Git`, `GitHub`, `Postman`, `VS Code`, `Jupyter` |
+
 ---
 
-# ⚡ WHO AM I
+# 🏆 Featured Project: Movie Recommender System (MRS)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" />
+</p>
+
+- **The Challenge:** Providing accurate personalized content suggestions from a dataset of 5000+ movies.
+- **The Solution:** Developed a content-based recommender using **CountVectorizer** and **Cosine Similarity**. 
+- **Outcome:** Real-time recommendation retrieval with high user relevance deployed via Streamlit.
+- [🚀 Live Demo](https://movie-recommender-navneet.streamlit.app/) | [📂 Source Code](https://github.com/Navneet-Mallick/Movie-Recommender-System.git)
+
+---
+
+# 💻 Other Projects
+
+| Project | Description | Tech Stack | Links |
+|:---|:---|:---:|:---:|
+| **Car Price Predictor** | Regression model for valuation | Python, Sklearn | [Live](https://carpredictor-navneet.streamlit.app/) |
+| **Portfolio Site** | Personal branding & CV | React, CSS | [Live](https://navneet-mallick.github.io/Portfolio-Website/) |
+| **Quiz Master** | Interactive CLI game | C++ | [Repo](https://github.com/Navneet-Mallick/CPP-Project-Quiz-Master-Game.git) |
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Web+Developer;Machine+Learning+Enthusiast;Open+Source+Learner&center=true&width=500&height=45">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Navneet-Mallick&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Mallick&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-#  Skills & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,python,sklearn,django,mysql,mongodb,git,github"/>
-
-</p>
-
----
-
-# 💻 Projects
-
-| Project | Description | Link |
-|-------|-------------|------|
-| 📚 MRS | Movie Recommender System | [GitHub](https://github.com/Navneet-Mallick/Movie-Recommender-System.git)|[Live(https://movie-recommender-navneet.streamlit.app/) |
-|    Regression | Car Price Predictor |[GitHub](https://github.com/Navneet-Mallick/Car-Price-Predictor-Regression-.git)|[Live](https://carpredictor-navneet.streamlit.app/)
-| 🎮 Quiz Game | Interactive Quiz Application | [GitHub](https://github.com/Navneet-Mallick/CPP-Project-Quiz-Master-Game.git) |
-| 🌐 Portfolio | Personal Portfolio Website | [Live](https://navneet-mallick.github.io/Portfolio-Website/) |
-
----
-
-## 📈 GitHub Stats 
-[![Navneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navneet-Mallick&show_icons=true&theme=dark&count_private=true)](https://github.com/Navneet-Mallick)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Mallick&layout=compact&theme=dark)](https://github.com/Navneet-Mallick) ---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Navneet-Mallick&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution 
-
-<p align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-## 📊 GitHub Activity Graph
-
+### 🔥 Activity Graph
 [![Navneet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navneet-Mallick&theme=tokyo-night)](https://github.com/Navneet-Mallick)
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 # 🌐 Connect With Me
 
-<p>
-
+<p align="left">
 <a href="https://linkedin.com/in/navneet-mallick-313829279">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://www.instagram.com/navneet_nm07/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 # 💡 Quote
-
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein
-
----
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
