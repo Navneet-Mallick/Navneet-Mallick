@@ -10,9 +10,6 @@
 
 # 👨‍💻 About Me
 
-<!-- <p align="left">
-  <img align="right" width="400" src="https://streak-stats.demolab.com?user=Navneet-Mallick&theme=tokyonight&hide_border=true&mode=daily" alt="Navneet's Streak"/>
-</p> -->
 <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4Z3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 I am a **Computer Engineering student** and **Software Developer** focused on building intelligent systems. I specialize in bridging the gap between robust **Machine Learning models** and scalable **Web Applications**.
 
