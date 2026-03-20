@@ -17,9 +17,8 @@
 I am a **Computer Engineering student** and **Software Developer** focused on building intelligent systems. I specialize in bridging the gap between robust **Machine Learning models** and scalable **Web Applications**.
 
 - 🎓 **Education:** 3rd Year Computer Engineering @ IOE Purwanchal Campus
-- 🔭 **Current Focus:** Advanced AI & Data Science
-- ⚡ **Achievement:** 3rd Place - CS50x AI Nepal DataCamp
-- 🌱 **Learning:** MLOps and Cloud model deployment
+- 🔭 **Current Focus:** AI/ML & Data Science
+- 🌱 **Learning:** React JS and Django
 
 ### 🛠 Technical Ecosystem
 
