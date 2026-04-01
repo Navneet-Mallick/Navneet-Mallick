@@ -58,8 +58,8 @@ Computer Engineering Student | AI & Web Dev Enthusiast 🚀 | Exploring Backend 
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Navneet-Mallick&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Mallick&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Navneet-Mallick&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Mallick&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ### 🔥 Activity Graph
